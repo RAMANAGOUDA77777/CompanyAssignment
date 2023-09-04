@@ -136,7 +136,7 @@ const handleClose = () => {
 
             <div className="ChatBox">
                         {showPopup && (
-                                <div className="popup" style={{position: 'fixed', top: 405}}>
+                                <div className="popup" style={{position: 'fixed', top: 400}}>
                                     <div id="members-btn">
                                                 <section>
                                                     <i className='bx bx-message' ></i>
